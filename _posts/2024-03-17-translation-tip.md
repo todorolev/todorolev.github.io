@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I translate formal writing"
+title:  "How I translate formal text"
 date:   2024-03-17
 categories: tip
 ---
