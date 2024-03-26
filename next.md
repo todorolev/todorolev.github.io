@@ -13,5 +13,3 @@
  - [ ] SOLID
  - [ ] Spring CLI
  - [ ] Agile maturity levels
-
- Scoering engine, BackOffice system, Automation of production and manufacturing processes, Security testing framework, Security testing library, HAR export from traffic to application, Better deserialization approach with Safetypes (writeObject??), Regex validation and performance testing, Java library that works like regex matcher but without using regex, Confluence plugin for protecting part of text in a wiki, Java library - string concat/append conditional, Java assertion engine for production, not testing
