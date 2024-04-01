@@ -1,4 +1,6 @@
 tip
 tool
-coding
+programming
+architecture
 process
+newsletter
