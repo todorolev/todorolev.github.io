@@ -45,6 +45,8 @@ exclude:
   - next.md
   - Gemfile
   - Gemfile.lock
+  - newsletter/
+  - categories.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
